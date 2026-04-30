@@ -13,7 +13,7 @@ An interactive calendar-based habit tracker that helps you visualize daily progr
 
 ## 🌐 Live Demo
 
-👉 [Click here to open app](https://SANJANA951.github.io/Habit-Calendar/)
+👉 [Click here to open app](https://SANJANA951.github.io/Habit-Calendar/habit_calendar_full.html)
 
 ## ✨ Features
 
